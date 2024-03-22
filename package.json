@@ -1,0 +1,10 @@
+{
+"description": "serverless wordpress",
+	"scripts": {
+		"build": "diy-pwa build Supporting-The-Arsenal-Football-Club",
+		"preview": "diy-pwa preview Supporting-The-Arsenal-Football-Club"
+	},
+	"devDependencies": {
+		"diy-pwa": "latest"
+	}
+}
